@@ -32,6 +32,21 @@ OFF -> 0
 ```
 
 
+## Arguments
+#### --grid-size
+```bash
+main.py --grid-size 3
+```
+### --interval
+```bash
+main.py --interval 500
+```
+### --pattern-file
+```bash
+main.py --pattern-file glider.txt
+```
+
+
 
 
 
