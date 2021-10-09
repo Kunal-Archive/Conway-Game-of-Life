@@ -48,8 +48,7 @@ def readPattern(filepath):
     return newpattern
         
 def pattern(array, i, j, grid):
-
-    """Add the given pattern to the grid"""
+    """Add the given pattern to the grid by using ayyay form txt file"""
     shape = array.shape
     grid[i:i+(shape[0]), j:j+(shape[1])] = array
 
